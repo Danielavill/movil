@@ -1,1 +1,2 @@
-este es el cambio que realice en la rama auxiliar 
+este es el cambio que realice en la rama auxiliar.
+Este es otro cambio para explicar pull request
